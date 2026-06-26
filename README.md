@@ -188,11 +188,3 @@ AI/ML Engineer | Full Stack Developer | Competitive Programmer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Ankitpanghal01/Ankitpanghal01/output/github-contribution-grid-snake.svg">
-
-</p>
