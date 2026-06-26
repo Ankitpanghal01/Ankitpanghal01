@@ -24,7 +24,7 @@ AI/ML Engineer | Full Stack Developer | Competitive Programmer
 - 🌱 Currently Learning Docker, Kubernetes, Jenkins & AWS
 - 🚀 Solving DSA daily on LeetCode
 - ⚡ Passionate about building scalable web applications
-- 📫 Reach me: **YOUR_EMAIL**
+- 📫 Reach me: **myselfankitpanghal@gmail.com**
 
 ---
 
@@ -92,9 +92,9 @@ AI/ML Engineer | Full Stack Developer | Competitive Programmer
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ankitpanghal01&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitpanghal01&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -104,7 +104,7 @@ AI/ML Engineer | Full Stack Developer | Competitive Programmer
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitpanghal01&theme=tokyonight">
 
 </p>
 
@@ -112,7 +112,7 @@ AI/ML Engineer | Full Stack Developer | Competitive Programmer
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitpanghal01&theme=github-dark">
 
 ---
 
@@ -120,7 +120,7 @@ AI/ML Engineer | Full Stack Developer | Competitive Programmer
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6">
+<img src="https://github-profile-trophy.vercel.app/?username=Ankitpanghal01E&theme=onedark&row=1&column=6">
 
 </p>
 
@@ -131,10 +131,9 @@ AI/ML Engineer | Full Stack Developer | Competitive Programmer
 | Project | Description |
 |----------|-------------|
 | ⚽ English Premier League | Football analytics website built using React & Node.js |
-| 🤖 Resume Analyzer | AI-powered ATS Resume Analyzer |
 | 🐳 Docker + Kubernetes | Deployment & Containerization Project |
 | ☁️ Jenkins CI/CD | CI/CD pipeline using Jenkins |
-| 🗑 Smart Waste Management | AI-based waste management system |
+
 
 ---
 
@@ -156,7 +155,7 @@ AI/ML Engineer | Full Stack Developer | Competitive Programmer
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Karma">
+<img src="https://leetcard.jacoblin.cool/Ankitpanghal?theme=dark&font=Karma">
 
 </p>
 
@@ -166,19 +165,19 @@ AI/ML Engineer | Full Stack Developer | Competitive Programmer
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ankit-panghal01/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE/">
+<a href="https://leetcode.com/u/AnkitpanghalE/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES">
+<a href="https://codeforces.com/profile/Ankitpanghal">
 <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:myselfankitpanghal@gmail.comL">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
@@ -200,6 +199,6 @@ AI/ML Engineer | Full Stack Developer | Competitive Programmer
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Ankitpanghal01/Ankitpanghal01/output/github-contribution-grid-snake.svg">
 
 </p>
