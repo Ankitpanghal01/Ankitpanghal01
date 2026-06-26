@@ -9,7 +9,6 @@ AI/ML Engineer | Full Stack Developer | Competitive Programmer
 </p>
 
 ---
----
 
 # 👨‍💻 About Me
 
