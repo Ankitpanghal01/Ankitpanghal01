@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 10" width="860" height="10" role="presentation">
+<style>.p{animation:p 5s linear infinite}@keyframes p{from{transform:translateX(-260px)}to{transform:translateX(860px)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="g"><stop offset="0" stop-color="#A855F7" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></linearGradient></defs>
+<rect y="4" width="860" height="2" fill="#30363D"/><rect class="p" y="3" width="260" height="4" rx="2" fill="url(#g)"/></svg>
